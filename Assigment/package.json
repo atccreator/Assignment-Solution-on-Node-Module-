@@ -1,0 +1,13 @@
+{
+  "name": "union-function",
+  "version": "1.0.0",
+  "description": "A utility for merging arrays with unique values",
+  "main": "union.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
